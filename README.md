@@ -34,11 +34,13 @@
 
 | Projects                            | Link                                                                                    |
 | ----------------------------------- | --------------------------------------------------------------------------------------- |
+| Social Media Application (Lagram)   | [Link](https://github.com/lagantg19/LagGram)                                            |
 | Shoe Selling Buying Website         | [Link](https://github.com/lagantg19/ShoeLag)                                           |
 | Restaurant Website                  | [Link](https://github.com/lagantg19/Laup-Restaurant-)                                   |
 | Shopping Website                    | [Link](https://github.com/lagantg19/Shopping-website)                                  |
 | Microservice-communication-with-RabbitMQ | [Link](https://github.com/lagantg19/Microservice-communication-with-RabbitMQ-PES1UG20CS555) |
 | To Do Application                    | [Link](https://github.com/lagantg19/To-Do-Application)                                  |
+
 
 
 
